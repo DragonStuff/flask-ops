@@ -5,9 +5,9 @@ This Flask application generates a random key whenever it receives a HTTP reques
 
 Your task is to:
 
-- Provide as many elements of CI and CD as you think are necessary.
 - Package the application in a format where it can be easily deployed, secure and serve many users whilst providing observability.
 - Allow the application to be tested on local machines by developers of this application.
+- Provide as many elements of CI and CD as you think are necessary.
 
 You may use any cloud, any frameworks, applications or packages that you think are necessary to complete this task.
 
